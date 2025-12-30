@@ -1,0 +1,4 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+J1,tb4_10p,1,Conn_01x10_Socket,
+J2,AMASS_XT30PW-F_1x02_P2.50mm_Horizontal,1,Conn_01x02_Socket,
+"J3, J4, J5, J6, J7, J8, J9",cell_connection,7,Conn_01x01,
